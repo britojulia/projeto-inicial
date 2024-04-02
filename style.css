@@ -27,6 +27,10 @@ form{
     padding: 10px;
 }
 
+p{
+    color: rgb(8, 139, 71);
+}
+
 /*seletor id*/
 #conteudo{
     line-height: 1.5;
