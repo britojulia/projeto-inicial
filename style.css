@@ -22,6 +22,8 @@ nav{
 }
 
 form{
+    border-style: solid 1px;
+    color: rgb(77, 77, 77);
     padding: 10px;
 }
 
