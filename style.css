@@ -31,6 +31,12 @@ p{
     color: rgb(8, 139, 71);
 }
 
+button{
+    background-color: mediumblue;
+    color: aliceblue;
+
+}
+
 /*seletor id*/
 #conteudo{
     line-height: 1.5;
