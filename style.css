@@ -4,6 +4,7 @@
     background-color: rgb(62, 138, 231);
 }
 
+/*seletor tag*/
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -14,4 +15,9 @@ h1{
 
 nav{
     font-weight: bold;
+}
+
+/*seletor div*/
+#container{
+    margin: 20px;
 }
