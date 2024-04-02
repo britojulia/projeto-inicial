@@ -9,6 +9,7 @@
 }
 
 /*seletor tag*/
+
 h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -42,6 +43,7 @@ button{
 }
 
 /*seletor id*/
+
 #conteudo{
     line-height: 1.5;
 }
