@@ -1,5 +1,9 @@
 /*Seletor class*/
 
+.container{
+    margin: 20px;
+}
+
 .cabecalho{
     background-color: rgb(62, 138, 231);
 }
@@ -18,6 +22,3 @@ nav{
 }
 
 /*seletor div*/
-#container{
-    margin: 20px;
-}
