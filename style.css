@@ -21,4 +21,11 @@ nav{
     font-weight: bold;
 }
 
-/*seletor div*/
+form{
+    padding: 10px;
+}
+
+/*seletor id*/
+#conteudo{
+    line-height: 1.5;
+}
